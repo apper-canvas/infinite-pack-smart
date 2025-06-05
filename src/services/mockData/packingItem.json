@@ -1,0 +1,164 @@
+[
+  {
+    "id": "1",
+    "name": "Light cotton t-shirts",
+    "category": "Clothing",
+    "quantity": 3,
+    "isPacked": false,
+    "weight": 0.3,
+    "isCustom": false
+  },
+  {
+    "id": "2",
+    "name": "Comfortable walking shoes",
+    "category": "Shoes",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.8,
+    "isCustom": false
+  },
+  {
+    "id": "3",
+    "name": "Travel-sized shampoo",
+    "category": "Toiletries",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.1,
+    "isCustom": false
+  },
+  {
+    "id": "4",
+    "name": "Smartphone charger",
+    "category": "Electronics",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.2,
+    "isCustom": false
+  },
+  {
+    "id": "5",
+    "name": "Passport",
+    "category": "Documents",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.1,
+    "isCustom": false
+  },
+  {
+    "id": "6",
+    "name": "Warm fleece jacket",
+    "category": "Clothing",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.6,
+    "isCustom": false
+  },
+  {
+    "id": "7",
+    "name": "Rain jacket",
+    "category": "Clothing",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.4,
+    "isCustom": false
+  },
+  {
+    "id": "8",
+    "name": "Travel umbrella",
+    "category": "Accessories",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.3,
+    "isCustom": false
+  },
+  {
+    "id": "9",
+    "name": "Portable power bank",
+    "category": "Electronics",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.5,
+    "isCustom": false
+  },
+  {
+    "id": "10",
+    "name": "Travel insurance documents",
+    "category": "Documents",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.05,
+    "isCustom": false
+  },
+  {
+    "id": "11",
+    "name": "Sunscreen SPF 50",
+    "category": "Toiletries",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.15,
+    "isCustom": false
+  },
+  {
+    "id": "12",
+    "name": "Prescription medications",
+    "category": "Medication",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.1,
+    "isCustom": false
+  },
+  {
+    "id": "13",
+    "name": "Noise-canceling headphones",
+    "category": "Entertainment",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.7,
+    "isCustom": false
+  },
+  {
+    "id": "14",
+    "name": "Travel pillow",
+    "category": "Accessories",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.4,
+    "isCustom": false
+  },
+  {
+    "id": "15",
+    "name": "Casual dress pants",
+    "category": "Clothing",
+    "quantity": 2,
+    "isPacked": false,
+    "weight": 0.5,
+    "isCustom": false
+  },
+  {
+    "id": "16",
+    "name": "Universal travel adapter",
+    "category": "Electronics",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.3,
+    "isCustom": false
+  },
+  {
+    "id": "17",
+    "name": "Toothbrush and toothpaste",
+    "category": "Toiletries",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.2,
+    "isCustom": false
+  },
+  {
+    "id": "18",
+    "name": "Driver's license",
+    "category": "Documents",
+    "quantity": 1,
+    "isPacked": false,
+    "weight": 0.01,
+    "isCustom": false
+  }
+]

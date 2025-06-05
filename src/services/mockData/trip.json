@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "destination": "Tokyo, Japan",
+    "startDate": "2024-03-15",
+    "endDate": "2024-03-22",
+    "weatherData": [],
+    "packingList": [],
+    "createdAt": "2024-01-15T08:30:00.000Z"
+  },
+  {
+    "id": "2",
+    "destination": "Paris, France",
+    "startDate": "2024-04-10",
+    "endDate": "2024-04-17",
+    "weatherData": [],
+    "packingList": [],
+    "createdAt": "2024-01-16T10:45:00.000Z"
+  },
+  {
+    "id": "3",
+    "destination": "New York City, USA",
+    "startDate": "2024-05-20",
+    "endDate": "2024-05-25",
+    "weatherData": [],
+    "packingList": [],
+    "createdAt": "2024-01-17T14:20:00.000Z"
+  },
+  {
+    "id": "4",
+    "destination": "Barcelona, Spain",
+    "startDate": "2024-06-05",
+    "endDate": "2024-06-12",
+    "weatherData": [],
+    "packingList": [],
+    "createdAt": "2024-01-18T09:15:00.000Z"
+  },
+  {
+    "id": "5",
+    "destination": "Sydney, Australia",
+    "startDate": "2024-07-18",
+    "endDate": "2024-07-28",
+    "weatherData": [],
+    "packingList": [],
+    "createdAt": "2024-01-19T16:30:00.000Z"
+  }
+]
